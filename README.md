@@ -66,6 +66,5 @@ We welcome innovative ideas and contributions! Check out our CONTRIBUTING.md for
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 🌐 Stay Connected
-GitHub Issues: Report Issues
 Contact Us: info@angiesworld.com
 Experience the Future Today. Angie's World Awaits! 🚀
